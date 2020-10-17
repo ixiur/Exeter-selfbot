@@ -1,7 +1,7 @@
 {
-    "token": "",
-    "password": "",
-    "prefix": "xx",
+    "token": "NzY2ODAzMDc3NDE1ODI5NTA1.X4osZg.fCQFXe5fUB-LyqLHNAn687DRHxw",
+    "password": "Mason123.",
+    "prefix": "x",
     
     "nitro_sniper": true, 
     "giveaway_sniper": true,
